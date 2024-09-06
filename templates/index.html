@@ -1,0 +1,53 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Fertilizer Recommendation Chatbot</title>
+</head>
+<body>
+    <h2>Fertilizer Recommendation Chatbot</h2>
+    
+    {% if question %}
+        <p>{{ question }}</p>
+        <form method="post" action="/chat">
+            <input type="text" name="response" required>
+            <input type="submit" value="Submit">
+        </form>
+    {% elif answer %}
+        <p>{{ answer }}</p>
+        <form method="get" action="/">
+            <input type="submit" value="Restart">
+        </form>
+    {% endif %}
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fertilizer Recommendation Chatbot</title>
+</head>
+<body>
+    <h2>Fertilizer Recommendation Chatbot</h2>
+
+    <div id="chat-box">
+        {% for entry in conversation %}
+            <p><strong>Bot:</strong> {{ entry.question }}</p>
+            <p><strong>User:</strong> {{ entry.response }}</p>
+        {% endfor %}
+    </div>
+    
+    {% if question %}
+        <p>{{ question }}</p>
+        <form method="post" action="/chat">
+            <input type="text" name="response" required autofocus>
+            <input type="submit" value="Submit">
+        </form>
+    {% elif conversation %}
+        <p>End of conversation. Restart to try again.</p>
+        <form method="get" action="/">
+            <input type="submit" value="Restart">
+        </form>
+    {% endif %}
+</body>
+</html>

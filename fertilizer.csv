@@ -1,0 +1,300 @@
+Temperature,Humidity,Moisture,Soil Type,Crop Type,Nitrogen,Potassium,Phosphorous,Fertilizer
+26,52,38,Sandy,Maize,37,0,0,Urea
+29,52,45,Loamy,Sugarcane,12,0,36,DAP
+34,65,62,Black,Cotton,7,9,30,14-35-14
+32,62,34,Red,Tobacco,22,0,20,28-28
+28,54,46,Clayey,Paddy,35,0,0,Urea
+26,52,35,Sandy,Barley,12,10,13,17-17-17
+25,50,64,Red,Cotton,9,0,10,20-20
+33,64,50,Loamy,Wheat,41,0,0,Urea
+30,60,42,Sandy,Millets,21,0,18,28-28
+29,58,33,Black,Oil seeds,9,7,30,14-35-14
+27,54,28,Clayey,Pulses,13,0,40,DAP
+31,62,48,Sandy,Maize,14,15,12,17-17-17
+25,50,65,Loamy,Cotton,36,0,0,Urea
+32,62,41,Clayey,Paddy,24,0,22,28-28
+26,52,31,Red,Ground Nuts,14,0,41,DAP
+31,62,49,Black,Sugarcane,10,13,14,17-17-17
+33,64,34,Clayey,Pulses,38,0,0,Urea
+25,50,39,Sandy,Barley,21,0,19,28-28
+28,54,65,Black,Cotton,39,0,0,Urea
+29,58,52,Loamy,Wheat,13,0,36,DAP
+30,60,44,Sandy,Millets,10,0,9,20-20
+34,65,53,Loamy,Sugarcane,12,14,12,17-17-17
+35,68,33,Red,Tobacco,11,0,37,DAP
+28,54,37,Black,Millets,36,0,0,Urea
+33,64,39,Clayey,Paddy,13,0,10,20-20
+26,52,44,Sandy,Maize,23,0,20,28-28
+30,60,63,Red,Cotton,9,9,29,14-35-14
+32,62,30,Loamy,Sugarcane,38,0,0,Urea
+37,70,32,Black,Oil seeds,12,0,39,DAP
+26,52,36,Clayey,Pulses,14,0,13,20-20
+29,58,40,Red,Ground Nuts,24,0,23,28-28
+30,60,27,Loamy,Sugarcane,12,0,40,DAP
+34,65,38,Clayey,Paddy,39,0,0,Urea
+36,68,38,Sandy,Barley,7,9,30,14-35-14
+26,52,48,Loamy,Wheat,23,0,19,28-28
+28,54,35,Black,Millets,41,0,0,Urea
+30,60,61,Loamy,Cotton,8,10,31,14-35-14
+37,70,37,Clayey,Paddy,12,0,41,DAP
+25,50,26,Red,Ground Nuts,15,14,11,17-17-17
+29,58,34,Sandy,Millets,15,0,37,DAP
+27,54,30,Clayey,Pulses,13,0,13,20-20
+30,60,58,Loamy,Sugarcane,10,7,32,14-35-14
+32,62,34,Red,Tobacco,22,0,24,28-28
+34,65,60,Black,Sugarcane,35,0,0,Urea
+35,67,42,Sandy,Barley,10,0,35,DAP
+38,70,48,Loamy,Wheat,8,8,28,14-35-14
+26,52,32,Black,Oil seeds,12,0,8,20-20
+29,58,43,Clayey,Paddy,24,0,18,28-28
+30,60,29,Red,Ground Nuts,41,0,0,Urea
+33,64,51,Sandy,Maize,5,9,29,14-35-14
+34,65,31,Red,Tobacco,23,0,21,28-28
+36,68,33,Black,Oil seeds,13,0,14,20-20
+28,54,38,Clayey,Pulses,40,0,0,Urea
+30,60,47,Sandy,Barley,12,0,42,DAP
+31,62,63,Red,Cotton,11,12,15,17-17-17
+27,53,43,Black,Millets,23,0,24,28-28
+34,65,54,Loamy,Wheat,38,0,0,Urea
+29,58,37,Sandy,Millets,8,0,15,20-20
+25,50,56,Loamy,Sugarcane,11,13,15,17-17-17
+32,62,34,Red,Ground Nuts,15,0,37,DAP
+28,54,41,Clayey,Paddy,36,0,0,Urea
+30,60,49,Loamy,Wheat,13,0,9,20-20
+34,65,64,Black,Cotton,24,0,20,28-28
+28,54,47,Sandy,Barley,5,18,15,10-26-26
+27,53,35,Black,Oil seeds,37,0,0,Urea
+36,68,62,Red,Cotton,15,0,40,DAP
+34,65,57,Black,Sugarcane,9,0,13,20-20
+29,58,55,Loamy,Sugarcane,8,8,33,14-35-14
+25,50,40,Clayey,Pulses,6,19,16,10-26-26
+30,60,38,Sandy,Millets,10,0,14,20-20
+26,52,39,Clayey,Pulses,21,0,23,28-28
+31,62,32,Red,Tobacco,39,0,0,Urea
+34,65,48,Loamy,Wheat,23,0,19,28-28
+27,53,34,Black,Oil seeds,42,0,0,Urea
+33,64,31,Red,Ground Nuts,13,0,39,DAP
+29,58,42,Clayey,Paddy,9,10,22,14-35-14
+30,60,47,Sandy,Maize,22,0,21,28-28
+27,53,59,Loamy,Sugarcane,10,0,15,20-20
+26,52,36,Clayey,Pulses,7,16,20,10-26-26
+34,65,63,Red,Cotton,14,0,38,DAP
+28,54,43,Clayey,Paddy,10,8,29,14-35-14
+30,60,40,Sandy,Millets,41,0,0,Urea
+29,58,65,Black,Cotton,14,0,35,DAP
+26,52,59,Loamy,Sugarcane,11,0,9,20-20
+31,62,44,Sandy,Barley,21,0,28,28-28
+35,67,28,Clayey,Pulses,8,7,31,14-35-14
+29,58,30,Red,Tobacco,13,17,16,10-26-26
+27,53,30,Black,Millets,35,0,0,Urea
+36,68,50,Loamy,Wheat,12,18,19,10-26-26
+29,58,61,Loamy,Cotton,11,0,38,DAP
+30,60,26,Black,Oil seeds,8,9,30,14-35-14
+34,65,45,Clayey,Paddy,6,19,21,10-26-26
+36,68,41,Red,Ground Nuts,41,0,0,Urea
+28,54,25,Sandy,Maize,9,10,30,14-35-14
+25,50,32,Clayey,Pulses,24,0,19,28-28
+30,60,27,Red,Tobacco,4,17,17,10-26-26
+38,72,51,Loamy,Wheat,39,0,0,Urea
+36,60,43,Sandy,Millets,15,0,41,DAP
+29,58,57,Black,Sugarcane,12,0,10,20-20
+26.49,80.16,242.86,Clayey,rice,4.2,2.3,3.2,DAP
+21.97,81.9,227.36,silty clay,rice,4.2,2.3,3.2,DAP
+27.13,95.24,204.72,laterite,Coconut,4.2,2.3,3.2,DAP
+24.53,82.74,224.68,silty clay,rice,4.2,2.3,3.2,DAP
+24.96,84.48,196.96,coastal,Coconut,4.2,2.3,3.2,DAP
+29.26,95.11,184.76,silty clay,rice,4.2,2.3,3.2,DAP
+26.73,81.79,280.4,clay loam,rice,4.2,2.3,3.2,DAP
+21.33,80.47,185.5,Clayey,rice,4.2,2.3,3.2,DAP
+22.78,82.07,248.72,silty clay,rice,4.2,2.3,3.2,DAP
+25.08,80.52,257,silty clay,rice,4.2,2.3,3.2,DAP
+24.53,80.54,260.26,silty clay,rice,4.2,2.3,3.2,DAP
+26.93,98.8,166.57,sandy,Coconut,4.2,2.3,3.2,DAP
+26.76,81.18,272.3,silty clay,rice,4.2,2.3,3.2,DAP
+21.59,82.79,276.66,silty clay,rice,4.2,2.3,3.2,DAP
+22.7,82.81,257,Clayey,rice,4.2,2.3,3.2,DAP
+28.57,95.68,134.84,sandy,Coconut,4.2,2.3,3.2,DAP
+23.86,83.15,285.25,silty clay,rice,4.2,2.3,3.2,DAP
+26.19,96.97,135.42,sandy,Coconut,4.2,2.3,3.2,DAP
+26.23,83.84,286.51,silty clay,rice,4.2,2.3,3.2,DAP
+24.87,82.84,295.61,Clayey,rice,4,2,2.5,DAP and MOP
+28.69,96.65,178.96,laterite,Coconut,4,4,4,Good NPK
+20.27,81.64,270.44,silty clay,rice,4,4,2,MOP
+28.96,95.16,222.8,alluvial,Coconut,4,2,2.5,DAP and MOP
+26.3,99.66,215.92,laterite,Coconut,4,2,3,DAP
+27.51,94.19,156.67,sandy,Coconut,4,4,4,Good NPK
+23.68,81.04,233.7,clay loam,rice,4,2,2.5,DAP and MOP
+24.28,80.3,231.09,silty clay,rice,4,2,3,DAP
+26.4,81.06,223.37,clay loam,rice,4,4,2,MOP
+21.72,80.24,277.96,Clayey,rice,4,2,2.5,DAP and MOP
+28.28,93.65,171.95,sandy,Coconut,4,4,4,Good NPK
+26.53,81.42,264.61,Clayey,rice,4,4,2,MOP
+25.79,93.84,152.42,coastal,Coconut,4,4,4,Good NPK
+29.71,96.3,209.85,alluvial,Coconut,4,4,1.9,MOP
+26.54,84.67,183.62,clay loam,rice,4,2,2.5,DAP and MOP
+22.73,82.17,260.89,Clayey,rice,4,2,2.5,DAP and MOP
+27.59,92.49,162.84,sandy,Coconut,4,4,4,Good NPK
+25.55,96.93,191.3,laterite,Coconut,4,2,3,DAP
+26.09,80.38,182.9,clay loam,rice,4,4,4,Good NPK
+20.13,81.6,262.72,Clayey,rice,4,4,2,MOP
+23.43,83.06,219.9,silty clay,rice,4,2,2.5,DAP and MOP
+27.54,94.59,150.2,laterite,Coconut,4,4,4,Good NPK
+29.87,91.15,192.77,clay loam,rice,4,4,4,Good NPK
+27.06,91.11,224.7,sandy,Coconut,4,2,3,DAP
+25.76,83.52,245.66,Clayey,rice,4,2,2.5,DAP and MOP
+27.64,99.35,157.92,sandy,Coconut,4,4,4,Good NPK
+22.68,83.73,200.91,silty clay,rice,4,2,2.5,DAP and MOP
+26.61,96.97,191.01,laterite,Coconut,4,2,2.5,DAP and MOP
+26.92,91.2,194.9,clay loam,rice,4,4,4,Good NPK
+23.98,81.45,250.08,Clayey,rice,4,4,2,MOP
+22.68,83.46,194.27,silty clay,rice,4,2,2.5,DAP and MOP
+25.85,90.93,147.89,coastal,Coconut,4,4,4,Good NPK
+29.13,91.31,157.24,sandy,Coconut,4,4,4,Good NPK
+20.41,82.21,245.15,Clayey,rice,4,4,2,MOP
+25.6,80.15,200.83,silty clay,rice,4,4,2,MOP
+20.28,82.89,241.97,Clayey,rice,4,4,2,MOP
+27.8,99.65,181.69,coastal,Coconut,4,2,3,DAP
+27.01,96.46,144.33,laterite,Coconut,4,2,2.5,DAP and MOP
+27.1,93.7,150.95,sandy,Coconut,4,4,4,Good NPK
+28.83,92.17,145.42,coastal,Coconut,4,4,4,Good NPK
+26.14,93.28,195.41,clay loam,rice,4,4,4,Good NPK
+28.27,96.94,198.82,Clayey,rice,4,2,2.5,DAP and MOP
+26.58,95.79,171.63,coastal,Coconut,4,4,2.1,MOP
+26.31,82.37,265.54,silty clay,rice,4,2,2.5,DAP and MOP
+28.44,95.88,203.93,sandy,Coconut,4,4,2,MOP
+22.23,81.86,278.08,clay loam,rice,4,2,3,DAP
+28.99,90.74,148.84,sandy,Coconut,4,4,4,Good NPK
+24.9,80.53,183.68,Clayey,rice,4,2,3,DAP
+25.57,97.61,199.79,laterite,Coconut,4,4,4,Good NPK
+27.56,99.98,174.63,sandy,Coconut,4,4,2,MOP
+25.52,94.33,135.13,coastal,Coconut,4,4,2.2,MOP
+22.09,83.47,231.74,clay loam,rice,4,4,4,Good NPK
+25.43,82.95,195.36,silty clay,rice,4,4,4,Good NPK
+29.52,92.56,131.21,coastal,Coconut,4,4,4,Good NPK
+28.44,91.81,145.54,sandy,Coconut,4,4,4,Good NPK
+25.49,81.41,182.65,Clayey,rice,4,2,2.5,DAP and MOP
+26.14,96.39,131.34,coastal,Coconut,4,4,2.3,MOP
+26.36,84.04,271.36,silty clay,rice,4,2,3,DAP
+25.03,91.54,179.82,sandy,Coconut,4,2,2.5,DAP and MOP
+24.98,83.89,204.8,Clayey,rice,4,4,4,Good NPK
+29.53,91.91,194.31,Clayey,rice,4,2,2.5,Good NPK
+28.94,93,191.77,sandy,Coconut,4,4,2.5,MOP
+26.52,98.38,144.63,sandy,Coconut,4,4,4,Good NPK
+26.31,98.62,208.12,coastal,Coconut,4,2,2.5,DAP and MOP
+26.46,83.86,248.23,Clayey,rice,4,2,3,DAP
+28.29,97,142.94,sandy,Coconut,4,4,4,Good NPK
+26.51,94.48,199.88,sandy,Coconut,4,4,4,Good NPK
+26.45,98.3,221.23,coastal,Coconut,4,4,4,Good NPK
+29.01,94.01,150.05,sandy,Coconut,4,4,2,MOP
+20.62,83.77,279.55,Clayey,rice,4,4,4,Good NPK
+27.64,95.49,205.55,sandy,Coconut,4,4,4,Good NPK
+29.7,95.66,215.2,coastal,Coconut,4,4,4,Good NPK
+21.84,80.73,202.38,Clayey,rice,4,4,4,Good NPK
+26.87,91.73,214.41,coastal,Coconut,4,4,4,Good NPK
+29.2,95.67,211.25,sandy,Coconut,4,4,4,Good NPK
+23,82.32,263.96,Clayey,rice,4,2,3,DAP
+23.58,83.59,291.3,silty clay,rice,4,2,3,DAP
+21.87,80.19,224.56,silty clay,rice,2.9,3.5,3.9,"Urea"
+21.77,80.32,226.66,Clayey,rice,2.9,3.5,3.9,"Urea"
+20.82,84.13,230.22,clay loam,rice,2.5,4,3,"Urea"
+25.95,93.41,172.05,alluvial,Coconut,2.5,4,2,Urea and MOP
+25.52,94.38,178.73,sandy,Coconut,2.5,4,2,Urea and MOP
+26.59,90.99,178.81,coastal,Coconut,2.5,2,3,Urea and DAP
+27.08,97,171.76,alluvial,Coconut,2.5,2,3,Urea and DAP
+24.89,81.98,185.95,silty clay,rice,2.5,2,3,Urea and DAP
+28.48,97.77,160.39,coastal,Coconut,2.5,4,2,Urea and MOP
+23.79,80.42,206.26,silty clay,rice,2.5,4,3,"Urea"
+25.76,94.66,131.25,alluvial,Coconut,2.5,2,3,Urea and DAP
+27.19,92.2,141.32,laterite,Coconut,2.5,2,3,Urea and DAP
+23.36,83.6,188.41,clay loam,rice,2.5,4,2,Urea and MOP
+26.92,99.85,225.63,sandy,Coconut,2.5,4,3,"Urea"
+26.04,84.97,186.75,clay loam,rice,2.5,4,2,Urea and MOP
+20.88,82,202.94,Clayey,rice,2.5,4,3,"Urea"
+21.14,80.34,198.67,silty clay,rice,2.5,4,3,"Urea"
+27.75,95.95,131.09,laterite,Coconut,2.5,4,3,"Urea"
+29.18,92.73,204.96,alluvial,Coconut,2.5,4,2,Urea and MOP
+25.61,94.31,224.32,alluvial,Coconut,2.5,2,3,Urea and DAP
+27.15,91.49,164.92,coastal,Coconut,2.5,4,3,"Urea"
+21.32,83,192.32,Clayey,rice,2.5,4,3,"Urea"
+23.84,83.88,241.2,clay loam,rice,2.5,2,3,Urea and DAP
+23.84,83.88,241.2,clay loam,rice,2.5,2,3,Urea and DAP
+26.8,82.15,193.35,sandy,Coconut,2.5,2,3,Urea and DAP
+23.06,83.37,251.05,Clayey,rice,2.5,4,3,"Urea"
+23.64,80.29,263.11,Clayey,rice,2.5,2,3,Urea and DAP
+20.05,80.35,208.58,silty clay,rice,2.5,4,2,Urea and MOP
+26.11,91.52,134.13,sandy,Coconut,2.5,2,3,Urea and DAP
+25.55,91.64,212.87,coastal,Coconut,2.5,2,3,Urea and DAP
+20.78,84.5,240.08,silty clay,rice,2.5,4,2,Urea and MOP
+29.38,93.28,218.52,coastal,Coconut,2.5,2,3,Urea and DAP
+23.24,84.59,233.05,silty clay,rice,2.5,2,3,Urea and DAP
+24.64,80.41,253.72,silty clay,rice,2.5,4,2,Urea and MOP
+29.57,91.41,224.83,coastal,Coconut,2.5,2,3,Urea and DAP
+25.74,83.88,233.13,silty clay,rice,2.5,2,3,Urea and DAP
+23.45,84.79,283.93,silty clay,rice,2.5,4,2,Urea and MOP
+21.45,84.94,272.2,silty clay,rice,2.5,2,3,Urea and DAP
+26.8,80.89,284.44,Clayey,rice,2.5,4,2,Urea and MOP
+21.53,82.14,295.92,Clayey,rice,2.5,4,3,"Urea"
+21.02,82.95,298.4,silty clay,rice,2.5,2,3,Urea and DAP
+21.05,82.68,233.11,silty clay,rice,2.5,2,3,Urea and DAP
+24.44,82.45,267.98,Clayey,rice,2.5,2,3,Urea and DAP
+25.16,83.12,231.38,silty clay,rice,2.5,4,2,Urea and MOP
+27.15,96.66,149.24,sandy,Coconut,2.5,2,3,Urea and DAP
+20.08,83.29,263.64,Clayey,rice,2.5,4,2,Urea and MOP
+25.63,83.53,209.9,silty clay,rice,2.5,4,2,Urea and MOP
+24.52,83.54,230.45,Clayey,rice,2.5,4,2,Urea and MOP
+23.83,84.81,298.56,silty clay,rice,2.5,4,2,Urea and MOP
+25.79,82.11,243.51,Clayey,rice,2.2,3.5,3.9,"Urea"
+28.97,98.1,213.9,coastal,Coconut,2.2,3.5,3.9,"Urea"
+27.31,99.97,201.83,clay loam,rice,2.2,3.5,3.9,"Urea"
+27.31,99.97,201.83,laterite,Coconut,2.2,3.5,3.9,"Urea"
+26.29,84.57,257.49,clay loam,rice,2.2,3.5,3.9,"Urea"
+26.45,93.45,149.22,alluvial,Coconut,2.2,3.5,3.9,"Urea"
+26.93,81.91,290.68,clay loam,rice,2.2,3.5,3.9,"Urea"
+29.18,90.27,188.93,Clayey,rice,2.2,3.5,3.9,"Urea"
+22.71,82.64,271.32,Clayey,rice,2.2,3.5,3.9,"Urea"
+21.41,83.33,287.58,Clayey,rice,2.2,3.5,3.9,"Urea"
+25.07,95.02,192.9,sandy,Coconut,2,2.1,3.5,Urea and DAP
+25.04,95.9,174.8,coastal,Coconut,2,3.9,2.1,Urea and MOP
+25.01,95.59,165.81,coastal,Coconut,2,3.9,2.1,Urea and MOP
+28.11,90.02,172.48,laterite,Coconut,2,2.1,3.5,Urea and DAP
+28.36,91.65,160.73,alluvial,Coconut,2,4,2.1,Urea and MOP
+20.28,82.12,191.95,sandy,Coconut,2,2.1,3.5,Urea and DAP
+25.1,92.36,157.76,laterite,Coconut,2,3.9,2.1,Urea and MOP
+28.88,95.11,145.06,alluvial,Coconut,2,2.1,3.5,Urea and DAP
+28.39,99.19,189.67,sandy,Coconut,2,2.1,3.5,Urea and DAP
+27.57,94.9,145.93,alluvial,Coconut,2,3.9,2.1,Urea and MOP
+28.13,95.65,151.08,coastal,Coconut,2,2.1,3.5,Urea and DAP
+29.29,91.96,132.15,alluvial,Coconut,2,2.1,3.5,Urea and DAP
+28.74,93.4,156.77,coastal,Coconut,2,4,2.1,Urea and MOP
+28.06,98.37,171.65,sandy,Coconut,2,3.9,2.1,Urea and MOP
+29.7,95.21,148.3,coastal,Coconut,2,2.1,3.5,Urea and DAP
+28.3,95.41,182.45,laterite,Coconut,2,3.9,2.1,DAP and MOP
+23.86,82.23,195.09,alluvial,Coconut,2,4,2.1,Urea and MOP
+25.07,93.31,134.84,alluvial,Coconut,2,3.9,2.1,Urea and MOP
+26.38,91.5,167.05,sandy,Coconut,2,2.1,3.5,Urea and DAP
+24.01,82.06,185.28,laterite,Coconut,2,4,2.1,Urea and MOP
+25.95,94.74,144.16,coastal,Coconut,2,4,2.1,Urea and MOP
+29.03,90.79,205.57,laterite,Coconut,2,2.1,3.5,Urea and DAP
+25.28,80.54,220.12,clay loam,rice,2,4,2.1,Urea and MOP
+26.76,92.86,224.59,laterite,Coconut,2,4,2.1,Urea and MOP
+27.46,92.91,142.14,coastal,Coconut,2,3.9,2.1,Urea and MOP
+28.84,99.64,224.4,laterite,Coconut,2,3.9,2.1,Urea and MOP
+21.67,80.71,210.81,silty clay,rice,2,2.1,3.5,Urea and DAP
+22.3,80.64,197.98,silty clay,rice,2,4,2.1,Urea and MOP
+24.46,82.75,182.56,coastal,Coconut,2,4,2.1,Urea and MOP
+22.18,80.33,200.09,coastal,Coconut,2,2.1,3.5,Urea and DAP
+26.53,80.12,218.92,Clayey,rice,2,2.1,3.5,Urea and DAP
+25.39,98.09,218.08,coastal,Coconut,2,2.1,3.5,Urea and DAP
+23.43,80.57,269.5,Clayey,rice,2,2.1,3.5,Urea and DAP
+25.67,80.66,209.59,silty clay,rice,2,4,2,Urea and MOP
+26,94.8,209.54,coastal,Coconut,2,3.9,2.1,Urea and MOP
+21.95,80.97,213.36,silty clay,rice,2,4,2.1,Urea and MOP
+28.03,95.02,218.01,sandy,Coconut,2,4,2.1,Urea and MOP
+23.48,81.33,224.06,silty clay,rice,2,2.1,3.5,Urea and DAP
+26.88,81.46,194.58,coastal,Coconut,2,2.1,3.5,Urea and DAP
+23.22,83.03,221.21,Clayey,rice,2,4,2.1,Urea and MOP
+27.02,95.72,147.17,sandy,Coconut,2,3.9,2.1,Urea and MOP
+27.02,95.72,147.17,sandy,Coconut,2,3.9,2.1,Urea and MOP
+26.07,96.7,143.53,sandy,Coconut,2,3.9,2.1,Urea and MOP
+25.66,83.47,217.38,Clayey,rice,2,3.9,2.1,Urea and MOP
+24.17,83.73,257.03,silty clay,rice,2,2.1,3.5,Urea and DAP
